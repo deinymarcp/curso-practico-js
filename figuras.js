@@ -106,3 +106,4 @@ function calcularAreaCuadrado(){
 
     alert(area);
 }
+
