@@ -22,5 +22,4 @@ function calcularDescuento () {
 }
 
 
-
 // document.write(`Tu precio es ${priceValue}, el descuento es de ${descountValue} y el precio total con desceunto es de ${precioDescuento}`);
