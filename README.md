@@ -15,6 +15,17 @@ Pasos a seguir:
 
 ## Segundo Taller: Procentajes  y Descuentos
 
+
+- Definir formulas.
+- Implementar formulas en javascript.
+- Crear funciones.
+- Integrar JS con HTML.
+
+...
+
+## Tercer taller: promedio, mediana y moda
+
+
 - Definir formulas.
 - Implementar formulas en javascript.
 - Crear funciones.
