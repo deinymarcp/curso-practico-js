@@ -30,3 +30,13 @@ Pasos a seguir:
 - Implementar formulas en javascript.
 - Crear funciones.
 - Integrar JS con HTML.
+
+...
+
+
+## Cuarto taller: calcular diferencia salarial
+
+- Definir formulas.
+- Implementar formulas en javascript.
+- Crear funciones.
+- Integrar JS con HTML.
